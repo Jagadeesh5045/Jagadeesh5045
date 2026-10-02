@@ -36,6 +36,9 @@ I build production-grade AI systems — LLM-powered applications, retrieval-augm
 | Project | What it is |
 |---|---|
 | [**Code Sage AI**](https://github.com/Jagadeesh5045/code-sage-ai) | Agentic RAG code assistant (MSc dissertation) — Tree-sitter AST parsing across 12 languages, 13-state LangGraph orchestration, hybrid retrieval (dense + BM25 + cross-encoder re-rank), citation engine tracing claims to exact file:line, hallucination guard. Evaluated on a 25-query benchmark and compared like-for-like vs ChatGPT. Flask + Docker. |
+| [**rag-eval-lab**](https://github.com/Jagadeesh5045/rag-eval-lab) | RAG evaluation lab — hybrid retrieval (BM25 + TF-IDF + RRF fusion), sentence-level groundedness checker, eval harness (precision/recall, groundedness, latency) + Streamlit dashboard. |
+| [**churn-x**](https://github.com/Jagadeesh5045/churn-x) | Customer churn prediction — GradientBoosting (AUC 0.84) with SHAP explainability + Streamlit what-if simulator. |
+| [**pipeline-pulse**](https://github.com/Jagadeesh5045/pipeline-pulse) | ETL pipeline with 17 data quality checks → DuckDB warehouse → KPI dashboard. |
 | [**ai-builds**](https://github.com/Jagadeesh5045/AI-builds) | Weekly AI builds + daily trending experiments — new project every Monday, new experiment every day. |
 
 ## 📊 GitHub Stats
@@ -47,5 +50,5 @@ I build production-grade AI systems — LLM-powered applications, retrieval-augm
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeesh5045/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=googlechrome&logoColor=white)](https://jagadeeswararaopadala.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=googlechrome&logoColor=white)](https://jagadeesh5045.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Padalajagadeesh578@gmail.com)
