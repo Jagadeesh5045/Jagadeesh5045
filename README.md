@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: a new AI project every week — watch this profile
+- 🔭 Currently building: **ticket-triage** — AI support-ticket triage (FastAPI + calibrated classifiers + drift monitoring), this week's flagship build
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid
@@ -40,6 +40,7 @@ I build production-grade AI systems — LLM-powered applications, retrieval-augm
 | [**churn-x**](https://github.com/Jagadeesh5045/churn-x) | Customer churn prediction — GradientBoosting (AUC 0.84) with SHAP explainability + Streamlit what-if simulator. |
 | [**pipeline-pulse**](https://github.com/Jagadeesh5045/pipeline-pulse) | ETL pipeline with 17 data quality checks → DuckDB warehouse → KPI dashboard. |
 | [**ai-builds**](https://github.com/Jagadeesh5045/AI-builds) | Weekly AI builds + daily trending experiments — new project every Monday, new experiment every day. |
+| [**ticket-triage**](https://github.com/Jagadeesh5045/AI-builds/tree/main/flagship/ticket-triage) | AI support-ticket triage — FastAPI service classifying tickets (8 categories), scoring priority (low→urgent) with calibrated confidence, drafting auto-replies, and monitoring drift via PSI. |
 
 ## 📊 GitHub Stats
 
