@@ -1,3 +1,5 @@
+<img src="https://i.postimg.cc/2ywBFKPj/profile.jpg" align="right" width="220" alt="Jagadeeswara Rao Padala" />
+
 # Hi there, I'm Jagadeeswara Rao Padala 👋
 
 **MSc Artificial Intelligence @ Aston University · AI Engineer · LLM & RAG Systems**
