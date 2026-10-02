@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A66C2,7B2FF7&height=230&section=header&text=Jagadeeswara%20Rao%20Padala&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20-%20LLM%20%26%20RAG%20Systems%20-%20MSc%20Artificial%20Intelligence&descSize=19&descAlignY=62" alt="Jagadeeswara Rao Padala — AI Engineer" />
+<img src="https://i.postimg.cc/8k9J8pXv/github-header-final.png" alt="Jagadeeswara Rao Padala — AI Engineer" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=0A66C2&center=true&vCenter=true&width=620&lines=I+build+production-grade+AI+systems;LLM+Apps+%7C+RAG+Pipelines+%7C+ML+Systems;MSc+AI+%40+Aston+University+%2D+Birmingham%2C+UK;Open+to+AI+%2F+ML+Engineer+roles+across+the+UK" alt="Typing animation" />
@@ -87,5 +87,3 @@ I don't do tutorial projects. Everything here is **built, tested, measured, and 
 </p>
 
 <p align="center"><i>Graduate visa from December 2026 — no sponsorship required · Immediately available · UK-wide</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7B2FF7,0A66C2&height=120&section=footer" alt="footer" />
