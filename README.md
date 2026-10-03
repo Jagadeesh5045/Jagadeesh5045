@@ -20,7 +20,7 @@
 
 I don't do tutorial projects. Everything here is **built, tested, measured, and shipped** — RAG pipelines with hybrid retrieval and groundedness evals, ML models with explainability, data pipelines with quality gates, all with real numbers in the READMEs.
 
-- 🔭 **Currently building:** [today's experiment: agent-skills](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-02-agent-skills) — a working demo of Anthropic's open Agent Skills standard (Gemini's new Skills are built on it): progressive disclosure, Tier-1 routing, SKILL.md validation
+- 🔭 **Currently building:** [today's experiment: decision-models](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-03-decision-models) — a decision-head demo in the style of Cloudflare's new Clef models: probability over actions (not text), confidence gating to a human, calibration + latency diagnostics
 - 🌱 **Currently exploring:** agentic AI systems, LLM evaluation & groundedness
 - 💬 **Ask me about:** Python, RAG, NLP, Machine Learning
 - 📍 **Birmingham, UK** · will relocate anywhere in the UK · Remote / Hybrid
