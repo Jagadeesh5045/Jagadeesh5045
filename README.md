@@ -20,7 +20,7 @@
 
 I don't do tutorial projects. Everything here is **built, tested, measured, and shipped** — RAG pipelines with hybrid retrieval and groundedness evals, ML models with explainability, data pipelines with quality gates, all with real numbers in the READMEs.
 
-- 🔭 **Currently building:** [**chunk-bench**](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/chunk-bench) — a benchmark harness measuring which document-chunking strategy retrieves best in RAG pipelines (7 strategies, 24 gold questions, recall@k / MRR / context precision)
+- 🔭 **Currently building:** [**moe-routing**](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-05-moe-routing) — today's experiment: sparse Mixture-of-Experts token routing from scratch in NumPy, the efficiency trick behind Reflection AI's Beam (501B params, ~23B active per token)
 - 🌱 **Currently exploring:** agentic AI systems, LLM evaluation & groundedness
 - 💬 **Ask me about:** Python, RAG, NLP, Machine Learning
 - 📍 **Birmingham, UK** · will relocate anywhere in the UK · Remote / Hybrid
