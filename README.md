@@ -20,7 +20,7 @@
 
 I don't do tutorial projects. Everything here is **built, tested, measured, and shipped** — RAG pipelines with hybrid retrieval and groundedness evals, ML models with explainability, data pipelines with quality gates, all with real numbers in the READMEs.
 
-- 🔭 **Currently building:** [today's experiment: decision-models](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-03-decision-models) — a decision-head demo in the style of Cloudflare's new Clef models: probability over actions (not text), confidence gating to a human, calibration + latency diagnostics
+- 🔭 **Currently building:** [**chunk-bench**](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/chunk-bench) — a benchmark harness measuring which document-chunking strategy retrieves best in RAG pipelines (7 strategies, 24 gold questions, recall@k / MRR / context precision)
 - 🌱 **Currently exploring:** agentic AI systems, LLM evaluation & groundedness
 - 💬 **Ask me about:** Python, RAG, NLP, Machine Learning
 - 📍 **Birmingham, UK** · will relocate anywhere in the UK · Remote / Hybrid
@@ -65,6 +65,7 @@ I don't do tutorial projects. Everything here is **built, tested, measured, and 
 | [**churn-x**](https://github.com/Jagadeesh5045/churn-x) | Customer churn prediction — **GradientBoosting (AUC 0.84)** with SHAP explainability + Streamlit what-if simulator. |
 | [**pipeline-pulse**](https://github.com/Jagadeesh5045/pipeline-pulse) | ETL pipeline with **17 data-quality checks** → DuckDB warehouse → KPI dashboard. |
 | [**ticket-triage**](https://github.com/Jagadeesh5045/AI-builds/tree/main/flagship/ticket-triage) | AI support-ticket triage — FastAPI service classifying tickets into **8 categories**, calibrated priority scoring, auto-reply drafts, PSI drift monitoring. |
+| [**chunk-bench**](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/chunk-bench) | RAG chunking benchmark — 7 chunking strategies (fixed-size, sentence-aware, heading-aware) scored on **24 gold questions** with recall@k, MRR, context precision. 20 unit tests. |
 | [**ai-builds**](https://github.com/Jagadeesh5045/AI-builds) | Weekly flagship builds + daily trending-AI experiments — a new project every Monday, a new experiment every day. |
 
 ## 📊 GitHub Stats
