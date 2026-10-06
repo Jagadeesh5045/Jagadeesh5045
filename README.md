@@ -20,7 +20,7 @@
 
 I don't do tutorial projects. Everything here is **built, tested, measured, and shipped** — RAG pipelines with hybrid retrieval and groundedness evals, ML models with explainability, data pipelines with quality gates, all with real numbers in the READMEs.
 
-- 🔭 **Currently building:** [**moe-routing**](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-05-moe-routing) — today's experiment: sparse Mixture-of-Experts token routing from scratch in NumPy, the efficiency trick behind Reflection AI's Beam (501B params, ~23B active per token)
+- 🔭 **Currently building:** [**ml4-safety-harness**](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-06-ml4-safety-harness), today's experiment: an agent containment sandbox with 7 red-team probes, inspired by Mistral Large 4's cyber/containment testing (14/14 tests, 7/7 probes contained)
 - 🌱 **Currently exploring:** agentic AI systems, LLM evaluation & groundedness
 - 💬 **Ask me about:** Python, RAG, NLP, Machine Learning
 - 📍 **Birmingham, UK** · will relocate anywhere in the UK · Remote / Hybrid
