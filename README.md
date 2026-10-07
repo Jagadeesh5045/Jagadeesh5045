@@ -20,7 +20,7 @@
 
 I don't do tutorial projects. Everything here is **built, tested, measured, and shipped** — RAG pipelines with hybrid retrieval and groundedness evals, ML models with explainability, data pipelines with quality gates, all with real numbers in the READMEs.
 
-- 🔭 **Currently building:** [**ml4-safety-harness**](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-06-ml4-safety-harness), today's experiment: an agent containment sandbox with 7 red-team probes, inspired by Mistral Large 4's cyber/containment testing (14/14 tests, 7/7 probes contained)
+- 🔭 **Currently building:** [**governing-memory**](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-07-governing-memory), today's experiment: a two-tier agent memory showing why similarity retrieval forgets standing rules (governing facts), plus a constraint store checked every turn (10/10 tests, rule-violation reproduced and fixed)
 - 🌱 **Currently exploring:** agentic AI systems, LLM evaluation & groundedness
 - 💬 **Ask me about:** Python, RAG, NLP, Machine Learning
 - 📍 **Birmingham, UK** · will relocate anywhere in the UK · Remote / Hybrid
