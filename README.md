@@ -20,7 +20,7 @@
 
 I don't do tutorial projects. Everything here is **built, tested, measured, and shipped** — RAG pipelines with hybrid retrieval and groundedness evals, ML models with explainability, data pipelines with quality gates, all with real numbers in the READMEs.
 
-- 🔭 **Currently building:** [**governing-memory**](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-07-governing-memory), today's experiment: a two-tier agent memory showing why similarity retrieval forgets standing rules (governing facts), plus a constraint store checked every turn (10/10 tests, rule-violation reproduced and fixed)
+- 🔭 **Currently building:** [**disagreement-measurement**](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-09-disagreement-measurement), today's experiment: a deterministic citation verifier run against a judge over the same 20 drafts, counting the 3 disagreements where the judge passed what the file does not support (19/19 tests)
 - 🌱 **Currently exploring:** agentic AI systems, LLM evaluation & groundedness
 - 💬 **Ask me about:** Python, RAG, NLP, Machine Learning
 - 📍 **Birmingham, UK** · will relocate anywhere in the UK · Remote / Hybrid
