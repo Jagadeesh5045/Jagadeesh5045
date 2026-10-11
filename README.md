@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: today's experiment — agent context compression (Headroom-style log/JSON/RAG-chunk compression, 921→594 tokens on a demo agent trace) → [daily/2026-10-10-context-compression](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-10-context-compression)
+- 🔭 Currently building: today's experiment, document intelligence (LightOnOCR-3-style layout grounding + chart/table extraction, 28/28 tests passing) → [daily/2026-10-11-document-intelligence](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-11-document-intelligence)
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid · Graduate visa from Dec 2026, no sponsorship required
