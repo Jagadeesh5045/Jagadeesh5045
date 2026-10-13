@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: today's experiment — multimodal embeddings (EmbeddingGemma 2-style shared vector space + Matryoshka truncation, 13/13 tests passing) → [daily/2026-10-12-multimodal-embeddings](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-12-multimodal-embeddings)
+- 🔭 Currently building: today's experiment — swarm orchestrator (Ruflo-style queen-led multi-agent missions: shared memory, review loop catching an eval() in revision 1, human approval gate, run ledger, 16/16 tests passing) → [daily/2026-10-13-swarm-orchestrator](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-13-swarm-orchestrator)
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid · Graduate visa from Dec 2026, no sponsorship required
