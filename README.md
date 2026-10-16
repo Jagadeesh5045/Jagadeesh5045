@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: today's experiment — probabilistic bias correction (PBC) for forecasts (Nature paper, 14 Oct 2026: learn the PIT distribution of past probabilistic forecasts, remap F_corrected = G(F_raw); CRPS −21.9% vs raw model, beats climatology, 21/21 tests passing) → [daily/2026-10-15-probabilistic-bias-correction](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-15-probabilistic-bias-correction)
+- 🔭 Currently building: today's experiment — visual scratch space (Elorian Glimpse, 16 Oct 2026: reason WITH the image mid-reasoning — crop into regions, pull video frames, run measurement code; memory-only baseline fails 3/3 tasks, scratch-space agent gets 3/3, 17/17 tests passing) → [daily/2026-10-16-visual-scratch-space](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-16-visual-scratch-space)
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid · Graduate visa from Dec 2026, no sponsorship required
