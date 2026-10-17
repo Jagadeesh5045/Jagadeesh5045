@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: today's experiment — visual scratch space (Elorian Glimpse, 16 Oct 2026: reason WITH the image mid-reasoning — crop into regions, pull video frames, run measurement code; memory-only baseline fails 3/3 tasks, scratch-space agent gets 3/3, 17/17 tests passing) → [daily/2026-10-16-visual-scratch-space](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-16-visual-scratch-space)
+- 🔭 Currently building: **Drift Guard** (weekly project, 17 Oct 2026) — end-to-end ML pipeline: 3-model bake-off with 5-fold CV, JSONL experiment registry, holdout evaluation (ROC-AUC 0.9954), PSI drift monitoring, FastAPI serving; 8/8 tests passing → [projects/drift-guard](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/drift-guard)
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid · Graduate visa from Dec 2026, no sponsorship required
@@ -36,6 +36,8 @@ I build production-grade AI systems — LLM-powered applications, retrieval-augm
 | Project | What it is |
 |---|---|
 | [**Code Sage AI**](https://github.com/Jagadeesh5045/code-sage-ai) | Agentic RAG code assistant (MSc dissertation) — Tree-sitter AST parsing across 12 languages, 13-state LangGraph orchestration, hybrid retrieval (dense + BM25 + cross-encoder re-rank), citation engine tracing claims to exact file:line, hallucination guard. Evaluated on a 25-query benchmark and compared like-for-like vs ChatGPT. Flask + Docker. |
+| [**Drift Guard**](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/drift-guard) | ML training, evaluation & deployment-readiness pipeline — 3-model bake-off (tuned logistic regression champion, CV ROC-AUC 0.9959), JSONL experiment registry, holdout model card (ROC-AUC 0.9954), PSI drift monitoring, FastAPI inference + drift endpoints. scikit-learn, FastAPI, pytest. |
+| [**chunk-bench**](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/chunk-bench) | RAG chunking benchmark — 7 chunking strategies scored on 24 gold questions with recall@k, MRR and context precision; 20 unit tests passing. |
 | [**ai-builds**](https://github.com/Jagadeesh5045/AI-builds) | Weekly AI builds + daily trending experiments — new project every Monday, new experiment every day. |
 
 ## 📊 GitHub Stats
