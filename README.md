@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: **Drift Guard** (weekly project, 17 Oct 2026) — end-to-end ML pipeline: 3-model bake-off with 5-fold CV, JSONL experiment registry, holdout evaluation (ROC-AUC 0.9954), PSI drift monitoring, FastAPI serving; 8/8 tests passing → [projects/drift-guard](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/drift-guard)
+- 🔭 Currently building: **Hy Memory 2.0-style memory write path** (daily experiment, 18 Oct 2026) — dedicated memory-writer routing turns into chat/working/code scenes, supersede tombstoning for outdated facts, code diff-chains with rationales; 6/6 strict queries vs 4/6 for flat-log baselines, 18/18 tests passing → [daily/2026-10-18-hy-memory-write-path](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-18-hy-memory-write-path)
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid · Graduate visa from Dec 2026, no sponsorship required
