@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: **Hy Memory 2.0-style memory write path** (daily experiment, 18 Oct 2026) — dedicated memory-writer routing turns into chat/working/code scenes, supersede tombstoning for outdated facts, code diff-chains with rationales; 6/6 strict queries vs 4/6 for flat-log baselines, 18/18 tests passing → [daily/2026-10-18-hy-memory-write-path](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-18-hy-memory-write-path)
+- 🔭 Currently building: **experiment-lab** (weekly build, 19 Oct 2026) — A/B testing and experimentation statistics toolkit: frequentist tests, Bayesian A/B (98.9% P(treatment better)), CUPED variance reduction, SPRT early stopping; 13/13 tests passing → [projects/experiment-lab](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/experiment-lab)
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid · Graduate visa from Dec 2026, no sponsorship required
@@ -36,6 +36,7 @@ I build production-grade AI systems — LLM-powered applications, retrieval-augm
 | Project | What it is |
 |---|---|
 | [**Code Sage AI**](https://github.com/Jagadeesh5045/code-sage-ai) | Agentic RAG code assistant (MSc dissertation) — Tree-sitter AST parsing across 12 languages, 13-state LangGraph orchestration, hybrid retrieval (dense + BM25 + cross-encoder re-rank), citation engine tracing claims to exact file:line, hallucination guard. Evaluated on a 25-query benchmark and compared like-for-like vs ChatGPT. Flask + Docker. |
+| [**experiment-lab**](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/experiment-lab) | A/B testing and experimentation statistics toolkit — two-proportion z-test, Bayesian A/B, CUPED variance reduction (34.9% on average order value), SPRT early stopping and a peeking audit on a realistic 4,000-user checkout experiment (lift +1.84pp, p=0.0212). pandas, SciPy, matplotlib, pytest. |
 | [**Drift Guard**](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/drift-guard) | ML training, evaluation & deployment-readiness pipeline — 3-model bake-off (tuned logistic regression champion, CV ROC-AUC 0.9959), JSONL experiment registry, holdout model card (ROC-AUC 0.9954), PSI drift monitoring, FastAPI inference + drift endpoints. scikit-learn, FastAPI, pytest. |
 | [**chunk-bench**](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/chunk-bench) | RAG chunking benchmark — 7 chunking strategies scored on 24 gold questions with recall@k, MRR and context precision; 20 unit tests passing. |
 | [**ai-builds**](https://github.com/Jagadeesh5045/AI-builds) | Weekly AI builds + daily trending experiments — new project every Monday, new experiment every day. |
