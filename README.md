@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: **experiment-lab** (weekly build, 19 Oct 2026) — A/B testing and experimentation statistics toolkit: frequentist tests, Bayesian A/B (98.9% P(treatment better)), CUPED variance reduction, SPRT early stopping; 13/13 tests passing → [projects/experiment-lab](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/experiment-lab)
+- 🔭 Currently building: **structured-decisions** (daily experiment, 19 Oct 2026) — vLLM v0.32-style System One endpoint: typed choice/noul/score decisions with probabilities, ticket-router demo, zero output tokens; 19/19 tests passing → [daily/2026-10-19-structured-decisions](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-19-structured-decisions)
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid · Graduate visa from Dec 2026, no sponsorship required
