@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: **diffusion-lm** (daily experiment, 20 Oct 2026) — numpy-only masked diffusion language model, Mercury 3-style parallel generation: tokens revealed in confidence order instead of left-to-right; 11/11 tests passing → [daily/2026-10-20-diffusion-lm](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-20-diffusion-lm)
+- 🔭 Currently building: **weight-oracles** (daily experiment, 21 Oct 2026) — numpy-only trojan audit: a logistic probe over L2-normalized weight vectors flags backdoored MLPs that clean-data testing cannot separate (1.000 held-out accuracy); 8/8 tests passing → [daily/2026-10-21-weight-oracles](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-21-weight-oracles)
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid · Graduate visa from Dec 2026, no sponsorship required
