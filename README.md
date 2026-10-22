@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: **weight-oracles** (daily experiment, 21 Oct 2026) — numpy-only trojan audit: a logistic probe over L2-normalized weight vectors flags backdoored MLPs that clean-data testing cannot separate (1.000 held-out accuracy); 8/8 tests passing → [daily/2026-10-21-weight-oracles](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-21-weight-oracles)
+- 🔭 Currently building: **memory-native** (daily experiment, 22 Oct 2026) — MemT-1.0-style serving toy: gated delta-rule fast weights + Mixture-of-Storage routing give fixed-size dynamic memory (40 MiB) vs linear KV cache, reproducing the paper's 66x storage cut at 128K; 14/14 tests passing → [daily/2026-10-22-memory-native](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-22-memory-native)
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid · Graduate visa from Dec 2026, no sponsorship required
