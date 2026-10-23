@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: **rag-router** (flagship, 23 Oct 2026) — hybrid query router for RAG: a scikit-learn classifier routes each query to vector search, BM25, or NL→SQL over a DuckDB warehouse (routing accuracy 0.926, SQL answers 30/30 exact), with latency/quality trade-off evals and a FastAPI `POST /ask` demo → [flagship/rag-router](https://github.com/Jagadeesh5045/AI-builds/tree/main/flagship/rag-router)
+- 🔭 Currently building: **token-energy-law** (daily experiment, 23 Oct 2026) — toy joules-per-token accounting for LLM decode (active bytes + realized time), with a speculative-decoding energy breakeven analysis → [daily/2026-10-23-token-energy-law](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-23-token-energy-law)
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid · Graduate visa from Dec 2026, no sponsorship required
