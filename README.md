@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: **memory-native** (daily experiment, 22 Oct 2026) — MemT-1.0-style serving toy: gated delta-rule fast weights + Mixture-of-Storage routing give fixed-size dynamic memory (40 MiB) vs linear KV cache, reproducing the paper's 66x storage cut at 128K; 14/14 tests passing → [daily/2026-10-22-memory-native](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-22-memory-native)
+- 🔭 Currently building: **rag-router** (flagship, 23 Oct 2026) — hybrid query router for RAG: a scikit-learn classifier routes each query to vector search, BM25, or NL→SQL over a DuckDB warehouse (routing accuracy 0.926, SQL answers 30/30 exact), with latency/quality trade-off evals and a FastAPI `POST /ask` demo → [flagship/rag-router](https://github.com/Jagadeesh5045/AI-builds/tree/main/flagship/rag-router)
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid · Graduate visa from Dec 2026, no sponsorship required
@@ -39,6 +39,7 @@ I build production-grade AI systems — LLM-powered applications, retrieval-augm
 | [**experiment-lab**](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/experiment-lab) | A/B testing and experimentation statistics toolkit — two-proportion z-test, Bayesian A/B, CUPED variance reduction (34.9% on average order value), SPRT early stopping and a peeking audit on a realistic 4,000-user checkout experiment (lift +1.84pp, p=0.0212). pandas, SciPy, matplotlib, pytest. |
 | [**Drift Guard**](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/drift-guard) | ML training, evaluation & deployment-readiness pipeline — 3-model bake-off (tuned logistic regression champion, CV ROC-AUC 0.9959), JSONL experiment registry, holdout model card (ROC-AUC 0.9954), PSI drift monitoring, FastAPI inference + drift endpoints. scikit-learn, FastAPI, pytest. |
 | [**chunk-bench**](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/chunk-bench) | RAG chunking benchmark — 7 chunking strategies scored on 24 gold questions with recall@k, MRR and context precision; 20 unit tests passing. |
+| [**rag-router**](https://github.com/Jagadeesh5045/AI-builds/tree/main/flagship/rag-router) | Hybrid query router for RAG — a scikit-learn classifier routes each query to vector search, BM25, or NL→SQL over a DuckDB warehouse; routing accuracy 0.926, keyword recall@5 1.000, SQL answers 30/30 exact; latency/quality trade-off evals plus a FastAPI `POST /ask` demo. |
 | [**ai-builds**](https://github.com/Jagadeesh5045/AI-builds) | Weekly AI builds + daily trending experiments — new project every Monday, new experiment every day. |
 
 ## 📊 GitHub Stats
