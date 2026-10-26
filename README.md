@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: **wafer-pipeline-serving** (daily experiment, 25 Oct 2026) — reproducing Cerebras's 59-wafer Kimi K3 serving recipe: weight budget, layer packing, pipeline bubble, 4-bit quantisation error, and the energy arithmetic → [daily/2026-10-25-wafer-pipeline-serving](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-25-wafer-pipeline-serving)
+- 🔭 Currently building: **rag-failure-modes** (daily experiment, 26 Oct 2026) — tracing where a RAG system loses the answer across five loss points (chunking, vocabulary, top-k, lookalike context, ungrounded generator): naive pipeline 6/10 correct vs fixed pipeline 10/10 → [daily/2026-10-26-rag-failure-modes](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-26-rag-failure-modes)
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid · Graduate visa from Dec 2026, no sponsorship required
