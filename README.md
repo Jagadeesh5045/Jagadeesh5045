@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: **lfm3-tri-hybrid** (daily experiment, 27 Oct 2026) — a NumPy re-implementation of Liquid AI's LFM3 tri-hybrid backbone (13 gated-convolution, 5 sliding-window, 6 global-attention layers): at 256K context the mix costs 25.0% of all-global attention → [daily/2026-10-27-lfm3-tri-hybrid](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-27-lfm3-tri-hybrid)
+- 🔭 Currently building: **transcribe-diarize** (daily experiment, 28 Oct 2026) — a stdlib-only speaker-attributed transcription pipeline in the style of NVIDIA's Nemotron 3.5 Transcribe (released today): voice-embedding clustering capped at 8 speakers, cpWER/DER scoring, prompt glossary correction → [daily/2026-10-28-transcribe-diarize](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-28-transcribe-diarize)
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid · Graduate visa from Dec 2026, no sponsorship required
