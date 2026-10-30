@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: **mlops-credit** (weekly flagship, 30 Oct 2026) — a fully offline MLOps pipeline for credit default prediction: JSON model registry, 90/10 canary deploy with a promotion rule, and drift-triggered retraining on PSI → [flagship/mlops-credit](https://github.com/Jagadeesh5045/AI-builds/tree/main/flagship/mlops-credit)
+- 🔭 Currently building: **agent-release-health** (daily experiment, 30 Oct 2026) — a stdlib-only agent release-health monitor that catches regressions on full-traffic observable metrics, no LLM judge → [daily/2026-10-30-agent-release-health](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-30-agent-release-health)
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid · Graduate visa from Dec 2026, no sponsorship required
