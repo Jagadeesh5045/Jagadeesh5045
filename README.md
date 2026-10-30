@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: **transcribe-diarize** (daily experiment, 28 Oct 2026) — a stdlib-only speaker-attributed transcription pipeline in the style of NVIDIA's Nemotron 3.5 Transcribe (released today): voice-embedding clustering capped at 8 speakers, cpWER/DER scoring, prompt glossary correction → [daily/2026-10-28-transcribe-diarize](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-28-transcribe-diarize)
+- 🔭 Currently building: **mlops-credit** (weekly flagship, 30 Oct 2026) — a fully offline MLOps pipeline for credit default prediction: JSON model registry, 90/10 canary deploy with a promotion rule, and drift-triggered retraining on PSI → [flagship/mlops-credit](https://github.com/Jagadeesh5045/AI-builds/tree/main/flagship/mlops-credit)
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid · Graduate visa from Dec 2026, no sponsorship required
@@ -40,6 +40,7 @@ I build production-grade AI systems — LLM-powered applications, retrieval-augm
 | [**Drift Guard**](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/drift-guard) | ML training, evaluation & deployment-readiness pipeline — 3-model bake-off (tuned logistic regression champion, CV ROC-AUC 0.9959), JSONL experiment registry, holdout model card (ROC-AUC 0.9954), PSI drift monitoring, FastAPI inference + drift endpoints. scikit-learn, FastAPI, pytest. |
 | [**chunk-bench**](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/chunk-bench) | RAG chunking benchmark — 7 chunking strategies scored on 24 gold questions with recall@k, MRR and context precision; 20 unit tests passing. |
 | [**rag-router**](https://github.com/Jagadeesh5045/AI-builds/tree/main/flagship/rag-router) | Hybrid query router for RAG — a scikit-learn classifier routes each query to vector search, BM25, or NL→SQL over a DuckDB warehouse; routing accuracy 0.926, keyword recall@5 1.000, SQL answers 30/30 exact; latency/quality trade-off evals plus a FastAPI `POST /ask` demo. |
+| [**mlops-credit**](https://github.com/Jagadeesh5045/AI-builds/tree/main/flagship/mlops-credit) | End-to-end MLOps for credit default prediction — JSON model registry, 90/10 canary deploy (challenger promoted only on +0.02 ROC-AUC), PSI drift monitoring with drift-triggered retraining. 5,000 synthetic applicants, champion ROC-AUC 0.6886, canary kept the champion, drift on income (PSI 0.3773) and late payments (PSI 1.7022) triggered retraining to v3. 4 tests green. |
 | [**retail-warehouse**](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/retail-warehouse) | Incremental star-schema warehouse in pure Python and SQLite: SCD Type 2 customer and product history, deduplication with late corrections winning, quarantine for unresolvable orders. 580 fact orders, £50,029.15 revenue, 14 tests green. |
 | [**ai-builds**](https://github.com/Jagadeesh5045/AI-builds) | Weekly AI builds + daily trending experiments — new project every Monday, new experiment every day. |
 
