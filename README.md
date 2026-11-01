@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: **two-door-refusal** (daily experiment, 31 Oct 2026) — one weights, two doors: a stdlib-only refusal-boundary gate modelling GPT-6 Rosalind's trusted-access deployment → [daily/2026-10-31-two-door-refusal](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-10-31-two-door-refusal)
+- 🔭 Currently building: **gguf-quant-lab** (daily experiment, 1 Nov 2026) — GGUF block quantisation measured: 35B parameters need 70.00 GB at FP16 but 19.69 GB in Q4 style, small enough for a 32 GB CPU-only machine, with a 0.99572 matrix-vector output cosine -> [daily/2026-11-01-gguf-quant-lab](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-11-01-gguf-quant-lab)
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid · Graduate visa from Dec 2026, no sponsorship required
