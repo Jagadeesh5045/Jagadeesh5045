@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: **saas-kpi-board** (weekly project, 2 Nov 2026) — SaaS subscription KPI analytics in Python, SQLite and SQL: 714 customers over 18 months, MRR £48,824, GRR 76.8% and NRR 95.2% at 12 months, channel LTV:CAC from named tested SQL queries -> [projects/saas-kpi-board](https://github.com/Jagadeesh5045/AI-builds/tree/main/projects/saas-kpi-board)
+- 🔭 Currently building: today's experiment: **router/worker super-agent** (2 Nov 2026) — DeepSeek dsh-superagent-style dispatch-only Router, isolated Workers, external Watchdog recovery and proactive tickets, 12 ticks vs 22 sequential on an 8-ticket job, 14/14 tests passing -> [daily/2026-11-02-router-worker](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-11-02-router-worker)
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid · Graduate visa from Dec 2026, no sponsorship required
