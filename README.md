@@ -6,7 +6,7 @@
 
 I build production-grade AI systems — LLM-powered applications, retrieval-augmented generation pipelines, and scalable Python backends. Previously a Python Developer for 2 years in production. Currently seeking **AI / Machine Learning Engineer** roles in the UK.
 
-- 🔭 Currently building: today's experiment: **QA Bench-style bug hunt** (3 Nov 2026) — Momentic's QA Bench measured agents finding real bugs in running apps (1,396 labelled bugs, fixed 60-min budget); my synthetic shop carries 12 labelled bugs and three hunters scored on matched/recall/precision/cost-per-bug: checklist 12/12 at 100% precision, cheap random probing wins tight-budget recall at 38.9% precision, 12/12 tests passing -> [daily/2026-11-03-qa-bench-bug-hunt](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-11-03-qa-bench-bug-hunt)
+- 🔭 Currently building: today's experiment: **Model Integration Contracts harness** (4 Nov 2026) — Hugging Face proposed MICs after a tiny UMT5 fixture caught a decoder future-token leak that smoke tests missed; my NumPy decoder contract (causality + reviewed-baseline drift probes) passes the correct model, fails the dropped-mask variant (past-logit leak 1.025, log-prob drift 0.232) and replay flags exactly the regressed commits, 15/15 tests passing -> [daily/2026-11-04-model-integration-contracts](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-11-04-model-integration-contracts)
 - 🌱 Currently exploring: agentic AI systems, LLM evaluation & groundedness
 - 💬 Ask me about: Python, RAG, NLP, Machine Learning
 - 📍 Birmingham, UK · open to relocating · Remote / Hybrid · Graduate visa from Dec 2026, no sponsorship required
