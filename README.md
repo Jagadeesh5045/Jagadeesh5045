@@ -58,6 +58,15 @@ I turn data into decisions: SQL, Python (pandas, NumPy) and Power BI for analysi
 | [**cascade-cost-router**](https://github.com/Jagadeesh5045/AI-builds/tree/main/daily/2026-11-10-cascade-cost-router) | LLM cascade cost router: a cheap model answers first and only uncertain cases escalate to a frontier model. On a 50-case fixture the cascade scored 100% accuracy vs 52% for the cheap model alone, at 50.7% lower cost than frontier-only; 14/14 tests passing. Python. |
 | [**ai-builds**](https://github.com/Jagadeesh5045/AI-builds) | Weekly AI builds + daily trending experiments — new project every Monday, new experiment every day. |
 
+## ✍️ Writing
+
+Published on Medium, each article backed by code and verified numbers:
+
+| Article | What it covers |
+|---|---|
+| [**I Built a Waiting List Analytics System, Then Made the AI Prove Every Number It Wrote**](https://medium.com/@padalajagadeesh578/i-built-a-waiting-list-analytics-system-then-made-the-ai-prove-every-number-it-wrote-e8f1aedb370b) (Nov 2026) | The care-wait-analytics flagship write-up: 6,075 raw rows in, 75 quarantined, 6,000 clean, median wait 97 days, 26.4% breach rate, breach-risk ROC-AUC 0.8516, and a generated briefing verified to 0 ungrounded numbers. |
+| [**I Built a RAG System That Cites Its Sources. The Evals Taught Me More Than the Build.**](https://medium.com/@padalajagadeesh578/title-i-built-a-rag-system-that-cites-its-sources-the-evals-taught-me-more-than-the-build-5996da7ac7c9) (Oct 2026) | RAG evaluation experiments from Code Sage AI and RAG Eval Lab, with results tables and working code. |
+
 ## 📊 GitHub Stats
 
 ![Jagadeesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jagadeesh5045&show_icons=true&theme=radical)
